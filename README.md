@@ -416,22 +416,27 @@ contact
 ```
 
 ## OUTPUT:
+## HOME PAGE:
 ![output](./outt1.png)
+
+## people:
 ![output](./outt21.png)
 ![output](./outt22.png)
 ![output](./outt23.png)
 ![output](./outt24.png)
+
+## products:
 ![output](./outt3.png)
 ![output](./out31.png)
+
+## contact:
 ![output](./out4.png)
 
 ### HTML VALIDATOR
 ![output](./outvalid.png)
 
 
-### Home Page:
 
-![output](./images/homepage.jpg)
 
 ## Result:
 
